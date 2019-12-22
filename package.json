@@ -1,0 +1,14 @@
+{
+  "name": "amplify_app1",
+  "version": "0.0.0",
+  "description": "amplify example",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-amplify": "^2.2.1"
+  }
+}
