@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-amplify": "^2.2.1"
+    "aws-amplify": "^5.2.0"
   }
 }
